@@ -87,7 +87,7 @@ Let's try to see the final chart, which becomes clear and simple, yet efficient.
 <iframe 
 height=600   
 width=80% 
-src="./project2.html" 
+src="https://xushl.github.io/project2" 
 allowfullscreen
 </iframe>
 
