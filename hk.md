@@ -74,7 +74,11 @@ So we decided to simplify the label and put it above the Y axis. Users can quick
 ​                                                                                                         *The Improved Labels*
 
 ##### 2. Use Contrast Color
-Two colors are used in the original figure to distinguish the data: cyan and blue. However, their contrast is not obvious, which tends to confuse the reader about the different data points. As a modification, we use the more contrasting dark blue and red, which are more eye-catching.
+Two colors are used in the original figure to distinguish the data: cyan and blue. However, their contrast is not obvious, which tends to confuse the reader about the different data points. White words on a lighter cyan background are also difficult to recognize. As a modification, we use the more contrasting dark blue and red, which are more eye-catching.
+
+<img src=".\5.png" style="zoom: 30%;" />
+
+​																				Words on Different Colored Backgrounds
 
 We believe that no matter how the visualization is done, when we need to reflect the contrast, we should use colors with larger distinctions whenever possible.
 
